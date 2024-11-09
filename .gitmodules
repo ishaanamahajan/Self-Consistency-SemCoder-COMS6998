@@ -1,0 +1,3 @@
+[submodule "libs/identitychain"]
+	path = libs/identitychain
+	url = https://github.com/marcusm117/IdentityChain.git
