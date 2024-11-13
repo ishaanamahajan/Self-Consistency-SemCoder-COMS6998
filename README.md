@@ -7,4 +7,4 @@ This repo mainly contains code from the IdentityChain repo present here - https:
 
 
 
-
+The ``experiments`` folder contains scripts we run to analyze the self-consistency metric (please note: this is still a work in progress) 
