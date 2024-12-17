@@ -14,4 +14,7 @@ The ``experiments`` folder contains scripts we run to analyze the self-consisten
 
 ``self-consistency-semcoder.ipynb`` is the file that contains NL to PL to NL code based on the [IdentityChain framework](https://github.com/marcusm117/IdentityChain) and conducts experiments using the [HumanEval dataset](https://github.com/openai/human-eval).
 
+
+``experiments/semcoder_noisy_test.ipynb`` is the file that contains tests with 'noisy' inputs - where the NL and PL prompts are polluted to test how good SemCoder is, in these scenarios. 
+
 To replicate the above results, please run the the two notebooks using a GPU. 
